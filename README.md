@@ -14,7 +14,7 @@ However this requires you to open your phone.
   * a suction cup to lift the cover
   * at least one thin plectrum to loosen the glue
   * some new glue to close the backcover again later
-* A PC and a USB cable to connect the phone to the computer
+* A PC and USB cable to connect the phone
 * Something that conducts electricty like tweezers
 
 ## Step by Step
