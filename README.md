@@ -20,7 +20,7 @@ However this requires you to open your phone.
 ## Step by Step
 1. Open your phone with the above tools. There are some good YT videos available online. Just search for something like ``Huawei P20 lite battery replacement`` ([Example video](https://www.youtube.com/watch?v=E1fsb9Jws60)).
 2. Once your phone is open follow the [PotatoNV guide](https://github.com/mashed-potatoes/PotatoNV)<br/>Note: There is also a [YT video](https://www.youtube.com/watch?v=YK9dlYUM6NM) available that explains how it is done very good
-  * 
+  * Here a graphic that displays the LLD points<br>![LLD points](./assets/LLD-P20lite.png)
   
 
 
