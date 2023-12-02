@@ -21,7 +21,7 @@ However this requires you to open your phone.
 1. Open your phone with the above tools. There are some good YT videos available online. Just search for something like ``Huawei P20 lite battery replacement`` ([Example video](https://www.youtube.com/watch?v=E1fsb9Jws60)).
 2. Once your phone is open follow the [PotatoNV guide](https://github.com/mashed-potatoes/PotatoNV)
    * Note: There is also a [YT video](https://www.youtube.com/watch?v=YK9dlYUM6NM) available that explains how it is done very good
-   * A backup of the testpoint drivers is available [here](./assets/Huawei drivers testpoint.zip)
+   * A backup of the testpoint drivers is available [here](./assets/drivers-testpoint.zip)
    * The LLD points are here:<br/><img src="./assets/LLD-P20lite.png" alt="LLD points" height=450/>
   
 
